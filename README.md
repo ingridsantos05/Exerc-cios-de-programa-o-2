@@ -1,2 +1,2 @@
-# Exerc-cios-de-programa-o-2
+# Exerc-cios-de-programaçao2
 Repositório para armazenar os exercícios em sala de aula
